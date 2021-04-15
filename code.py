@@ -1,3 +1,4 @@
+#testtesttesttest
 # 01
 def calculate(min, max):
     # 請用你的程式補完這個函式的區塊
